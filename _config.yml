@@ -1,7 +1,7 @@
 # (string) Title of your wiki
 title: 中医学习笔记
-baseurl: "/sangys/tcm" # the subpath of your site, e.g. /blog
-url: "https://pages.github.ibm.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/tcm" # the subpath of your site, e.g. /blog
+url: "https://sangys.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # (string) Description of your wiki
 description: 中医学习笔记
 # (boolean) disable edit functionalities (edit/delete/add pages)
