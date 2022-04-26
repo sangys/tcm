@@ -9,7 +9,7 @@ layout: "git-wiki-default"
 
 # 中医传承
 
-![search](/sangys/tcm/中医传承.PNG)
+![中医传承](/tcm/assets/images/中医传承.PNG)
 
 一个完善成熟的医疗系统，必须具备两个条件：一个是医疗人才，一个是医疗书籍。
 神农本草经，以酸、辛、苦、咸、甘五味进行了分类
